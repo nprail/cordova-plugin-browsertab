@@ -8,6 +8,13 @@
             "android"
         ]
     },
+    "engines": {
+        "cordovaDependencies": {
+            "0.2.0": {
+                "cordova-android": ">100"
+            }
+        }
+    },
     "keywords": [
         "sfsafariviewcontroller",
         "custom-tabs",
