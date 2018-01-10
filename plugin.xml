@@ -2,9 +2,9 @@
 <plugin
     xmlns="http://apache.org/cordova/ns/plugins/1.0"
     xmlns:android="http://schemas.android.com/apk/res/android"
-    id="cordova-plugin-browsertab"
+    id="cordova-plugin-browsertab2"
     version="0.3.0">
-    <name>cordova-plugin-browsertab</name>
+    <name>cordova-plugin-browsertab2</name>
     <description>
         This plugin provides an interface to in-app browser tabs that exist on
         some mobile platforms, specifically Custom Tabs on Android and
